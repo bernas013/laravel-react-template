@@ -14,7 +14,7 @@ To use this template, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/bernas013/laravel-react-template.git](https://www.google.com/search?q=https://github.com/bernas013/laravel-react-template.git)
+git clone https://github.com/bernas013/laravel-react-template.git
 ```
 
 2. Navigate to the directory:
