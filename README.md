@@ -5,7 +5,7 @@ This repository contains a template for integrating Laravel and React applicatio
 ## Versions
 
 * Simple: A basic integration of Laravel and React.
-* Multi-language: An integration with multi-language support.
+* Tailwind: A basic integration of Laravel, React, and Tailwind CSS.
 
 ## Usage
 
@@ -27,6 +27,7 @@ cd laravel-react-template
 
 ```bash
 git checkout simple
+git checkout tailwind
 ```
 
 4. Install the dependencies:
@@ -40,7 +41,9 @@ npm install
 
 ```bash
 php artisan serve
-npm start
+
+cd react
+npm run dev
 ```
 
 ## Contributing
